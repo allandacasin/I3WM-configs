@@ -1,14 +1,10 @@
-# I3WM-configs
-# I3 Window Tiling Manager Configurations
+# Installing I3 Window Tiling Manager 
+sudo apt install i3 dmenu i3status i3blocks
 
-# Commands Installing I3 Window Tiling Manager 
-sudo apt install i3
-sudo apt install i3blocks
+# put the configs (config and i3blocks.conf) on this directory
+~/.config/i3/
 
-# location of configs
-cd ~/.config/i3/
-
-# download fontawesome v.4 and do the ff for customizing status block:
-cp fontawesome-webfont.ttf ~/.fonts/
+# put fontawesome-webfont.ttf (fontawesome v.4) on this directory for adding icon status block:
+~/.fonts/
 
 
