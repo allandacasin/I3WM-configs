@@ -4,7 +4,7 @@ sudo apt install i3 dmenu i3status i3blocks
 # put the configs (config and i3blocks.conf) on this directory
 ~/.config/i3/
 
-# put fontawesome-webfont.ttf (fontawesome v.4) on this directory for adding icon status block:
+# put fontawesome-webfont.ttf (fontawesome v.4) on this directory for adding icons on status block:
 ~/.fonts/
 
 
