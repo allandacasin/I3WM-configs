@@ -1,5 +1,5 @@
 # Installing I3 Window Tiling Manager 
-sudo apt install i3 dmenu i3status i3blocks
+sudo apt install i3 dmenu i3status i3blocks i3lock
 
 # put the configs (config and i3blocks.conf) on this directory
 ~/.config/i3/
